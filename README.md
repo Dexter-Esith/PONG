@@ -28,5 +28,5 @@ W — Move Up
 S — Move Down
 
 Right Paddle:
-Up Arrow — Move Up
-Down Arrow — Move Down
+Up Arrow - Move Up
+Down Arrow - Move Down
