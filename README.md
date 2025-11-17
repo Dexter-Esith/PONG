@@ -24,8 +24,8 @@ Features smooth paddle controls, realistic ball physics, a scoring system, rando
 🕹 Controls
 
 Left Paddle:
-W — Move Up
-S — Move Down
+W - Move Up
+S - Move Down
 
 Right Paddle:
 Up Arrow - Move Up
